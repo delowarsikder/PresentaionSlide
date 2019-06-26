@@ -1,0 +1,29 @@
+According to Weygandt et. al., there are 9 steps in the accounting cycle:
+
+Step 1: Analyzing business transactions
+Step 2: Journalizing the transactions
+Step 3: Posting to ledger accounts
+Step 4: Preparing a trial balance
+Step 5: Journalizing and posting adjusting entries (Deferrals/Accruals)
+Step 6: Preparing an adjusted trial balance
+Step 7: Preparing financial statements: (Income statement, Owner’s equity statement, Balance sheet)
+Step 8: Journalize and posting closing entries
+Step-9: Preparing a post-closing trial balance
+
+Steps 1–3 may occur daily during the accounting period.
+Steps 4–7 are performed on a periodic basis, such as monthly, quarterly, or annually.
+Steps 8 and 9 usually take place only at the end of a company’s annual accounting period.
+If a worksheet is prepared, steps 4, 5, and 6 are incorporated in the worksheet.
+
+
+Step 1- Analyzing business transactions: Accountant analyzes evidence (Business Document: such as a sales slip, a check, a bill, or a cash register) to determine the transaction’s effects on specific accounts. Here effect means determining what items increased or decreased and by how much.
+Step 2- Journalizing the transactions: Entering transaction data in the journal is known as journalizing. Recording the transactions in chronological order in the book of original entry is called journal.
+Step3- Posting to Ledger Accounts: Transferring journal entries to the ledger accounts is called posting. The entire group of accounts maintained by a company is the ledger. The ledger keeps all the information about changes in specific account balances in one place.
+Step 4- Trial Balance: A trial balance is a list of ledger accounts and their balances at a given time. Companies prepare a trial balance at the end of an accounting period. The trial balance proves the mathematical equality of debits and credits after posting. A trial balance may also uncover errors in journalizing and posting. A trial balance is useful in the preparation of financial statements
+Step 5- Adjusting Entries: Adjusting entries are prepared at the end of an accounting period which ensure that the revenue recognition and expense recognition principles are followed.  The matching principle states that expenses have to be matched to the accounting period in which the revenue paying for them is earned. Revenue recognition principle states that companies should recognize revenue in the accounting period in which it is earned.
+Step 6- Adjusted Trial Balance: Adjusted trial balance shows the balances of all accounts, including those adjusted, at the end of the accounting period. The purpose of an adjusted trial balance is to prove the equality of the total debit balances and the total credit balances in the ledger after all adjustments.
+Step 7- Financial Statements: Income statement is prepared from the revenue and expense accounts to show the financial performance of an accounting period. Next, they use the owner’s capital and drawings accounts and the net income (or net loss) from the income statement to prepare the owner’s equity statement. Companies then prepare the balance sheet to show financial position from the asset and liability accounts and the ending owner’s capital balance as reported in the owner’s equity statement.
+Step 8- Closing Entries: Entries made at the end of an accounting period to transfer the balances of temporary accounts to a permanent owner’s equity account, Owner’s Capital. Temporary (nominal) accounts are those accounts that relate only to a given accounting period consist of all income statement accounts and owner’s drawings account. All temporary accounts are closed at end of the accounting period.
+Step 9- Post-Closing Trial Balance: A list of permanent accounts and their balances after a company has journalized and posted closing entries. Permanent (real) accounts are those accounts that relate to one or more accounting periods. Consist of all balance sheet accounts. Balances are carried forward to next accounting period.
+An Optional Step- Reversing Entries: Reversing entries is a non-compulsory accounting procedure which is not a mandatory step in the accounting cycle. If reversing entries are prepared, they happen between steps 9 and 1. Reversing entry is made at the beginning of the next accounting period. A reversing entry is the exact opposite of the adjusting entry made in the previous period.
+An Avoidable Step- Correcting Entries: If the accounting records are free of errors, no correcting entries are needed. Companies correct errors, as soon as they discover them, by journalizing and posting correcting entries. Correcting entries must be posted before closing entries. To determine the correcting entry, it is useful to compare the incorrect entry with the correct entry. Doing so helps identify the accounts and amounts that should—and should not—be corrected. After comparison, the accountant makes an entry to correct the accounts.

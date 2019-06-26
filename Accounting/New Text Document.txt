@@ -1,0 +1,119 @@
+﻿2. ACCOUNTING CYCLE
+
+    The Accounting Cycle is a series of steps. 
+
+    Starts with making accounting entries for each transaction and goes through closing the books. 
+
+3. DEFINITION
+
+    The accounting cycle refers to nine steps, repeated in each reporting period, to verify transactions and prepare financial statements for internal and external users. 
+
+4.
+
+    These 9 steps are- 
+
+    Analyze 
+
+    Journalize 
+
+    Post A Business Transaction 
+
+    Unadjusted Trial Balance 
+
+    Adjusting 
+
+    Preparing 
+
+    Preparing Financial Statements 
+
+    Closing the account 
+
+    Post-Closing Trial Balance 
+
+5. 9-Post closing Trial Balance 1-Analyze 2-Journalize 3-Post A Transaction 4- Unadjusted Trial Balance 5-Adjusting 6-Preparing 7-Preparing Financial Statement 8-Closing Account Accounting Cycle 6.
+
+    1-Analyze- 
+
+    The first step of accounting cycle. 
+
+    First analyze a transaction and its source documents. 
+
+    Apply double-entry accounting to recognize its effect on account balances . 
+
+7.
+
+    2- Journalize- 
+
+    Transactions are recorded in a General Journal. 
+
+    Journalizing leaves a record of all transactions in one document. 
+
+    Helping to prevent mistakes and linking the debits and credits for each transaction. 
+
+8.
+
+    3-Post A Business Transaction- 
+
+    The third step in the accounting cycle is posting. 
+
+    Also known as LEDGER Account. 
+
+    After recording in the journal, transaction are transferred and posted to the ledger. 
+
+    All transactions for the same account are collected and summarized. 
+
+    It is important to leave this paper trail to verify accuracy and troubleshoot later in the process if accounts are not adding up. 
+
+9. 4-Prepare An Unadjusted Trial Balance
+
+    Preparing an unadjusted trial balance tests the equality of debits and credits as recorded in the general ledger. 
+
+    Additionally, this provides the balances of all the accounts that may require adjustment in the next step. 
+
+10.
+
+    Debit and credit merely signify positionâ€” left and right, respectively . 
+
+    Both sided recorded amount must be equal. 
+
+11. 5-Adjusting of Trial Balance-
+
+    The fifth step, adjusting, accounts for internal transactions, like the use of prepaid rent or unearned revenue. 
+
+    Adjustment may be required to record an expense that may have been incurred but not yet recorded. 
+
+12. 6-Prepare an adjusted trial balance-
+
+    The sixth step is the preparation of the adjusted trial balance. 
+
+    Again tests the equality of debits and credits, encompassing all internal and external transactions for the reporting period. 
+
+13. 7-Preparing Financial Statements-
+
+    Financial statements are prepared. 
+
+    The Income Statement and Statement of Owner's Equity are prepared first, followed by the Balance Sheet, which pulls information from the Statement of Owner's Equity. 
+
+    These are one of the primary outputs of the financial accounting system. 
+
+14. 8-Closing the account
+
+    The eighth step in the accounting cycle is to close accounts in preparation for the next accounting period. 
+
+    Temporary or nominal accounts are closed, while permanent or real accounts carry their balances into the next period. 
+
+    Once completed, all revenue, expense, withdrawal and Income Summary balances should be zero. 
+
+15. 9-Post-Closing Trial Balance-
+
+    Finally, the post-closing trial balance lists the balances of the accounts that were not closed, such as assets, liabilities, and owner's equity. 
+
+    This trial balance helps verify that permanent accounts balance, with equal debit and credit sums, and that all temporary accounts were closed properly. 
+
+16.
+
+    DEFINITION- 
+
+    Series of steps in recording an accounting event from the time a transaction occurs to its reflection in the financial statements; also called bookkeeping cycle , The order of the steps in the accounting cycle are: recording in the journal, posting to the ledger, preparing a trial balance, and preparing the financial statements. 
+
+17. THANK YOU 
